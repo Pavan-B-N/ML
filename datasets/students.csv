@@ -1,0 +1,8 @@
+Name,SRN,Mark1,Mark2,Mark3,Target
+Ajay,11,88,?,70,Fail
+Kira,22,98,?,71,Pass
+Rama,33,100,?,67,Pass
+Peter,44,NaN,?,78,Fail
+John,?,NaN,88,89,Fail
+Adam,88,78,90,97,Pass
+Ravi,66,90,90,10,Fail
